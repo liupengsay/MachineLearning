@@ -20,6 +20,7 @@
 
 ### 2.1.1. 学习资源
 [集成学习：XGBoost, lightGBM]
+
 [集成学习：XGBoost, lightGBM]: https://www.bilibili.com/video/BV1Ca4y1t7DS?p=1&vd_source=e57aba6dc04a960e183574118dbe8322
 
 ## 2.2. lgb
